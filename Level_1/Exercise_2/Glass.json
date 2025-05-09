@@ -9,10 +9,12 @@
     "glass_color_right": "green",
     "price": 120.50,
     "provider_id": "ObjectId(xxxxxxx) -> Reference to a document of PROVIDER collection",
+    "provider_name": "Ferreti",
     "buying_clients":
     [
         {
-            "client_id": "ObjectId(xxxxxxx) -> Reference to a document of CLIENT collection"
+            "client_id": "ObjectId(xxxxxxx) -> Reference to a document of CLIENT collection",
+            "client_name": "Ana Acosta"
         }
     ]
 }
